@@ -7,9 +7,7 @@
 <p align="left">
 - I enjoy from teaching people without programming skills to build their own web application with no-code platforms
 </p>
-<p align="left">
-- I have experience creating web applications using no-code platforms  for start-ups. This approach allow to implement  buisness logic much faster and chipper.  
-</p>
+
 <p align="left">
 </p>
 <p align="center">
