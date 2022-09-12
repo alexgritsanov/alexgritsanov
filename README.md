@@ -4,9 +4,7 @@
 <p align="left">
 - Web Developer able to build Node.js web applications with React 
 </p>
-<p align="left">
-- I enjoy from teaching people without programming skills to build their own web application with no-code platforms
-</p>
+
 
 <p align="left">
 </p>
