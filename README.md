@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Fullstack developer from Israel</h3>
+<h3 align="center">Fullstack developer</h3>
 
 <p align="left">
 - Web Developer able to build Node.js web applications with React 
