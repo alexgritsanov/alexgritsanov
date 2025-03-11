@@ -21,10 +21,10 @@ Please wait 5-15 seconds for server launching when you open any Demo Project
 | ------------- | ------------- | ------------- |
 |01 | [ProShop eCommerce Platform]() | [LiveDemo](https://proshopappalexgree.herokuapp.com/)  |
 |02 | [Real Estate Project](https://github.com/alexgritsanov/agre_project)  |[LiveDemo](https://agreproject1.herokuapp.com/)  |
-|04 |[Music Platform](https://github.com/alexgritsanov/music-platform-client-dev) |[LiveDemo](https://musicplatform-client.herokuapp.com/tracks) |
-|05 |[Pong](https://alexgritsanov.github.io/pong/) |[LiveDemo](https://alexgritsanov.github.io/pong/) |
-|06 | [Tourism site]() |[LiveDemo](http://project2487366.tilda.ws/) |
-|07 |[Tickets Microservices](https://github.com/alexgritsanov/microservices-tickets) |[]() | 
+|03 |[Music Platform](https://github.com/alexgritsanov/music-platform-client-dev) |[LiveDemo](https://musicplatform-client.herokuapp.com/tracks) |
+|04 |[Pong](https://alexgritsanov.github.io/pong/) |[LiveDemo](https://alexgritsanov.github.io/pong/) |
+|05 | [Tourism site]() |[LiveDemo](http://project2487366.tilda.ws/) |
+|06|[Tickets Microservices](https://github.com/alexgritsanov/microservices-tickets) |[]() | 
 []()
 
 
