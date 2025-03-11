@@ -21,7 +21,7 @@ Please wait 5-15 seconds for server launching when you open any Demo Project
 | ------------- | ------------- | ------------- |
 |01 | [ProShop eCommerce Platform]() | [LiveDemo](https://proshopappalexgree.herokuapp.com/)  |
 |02 | [Real Estate Project](https://github.com/alexgritsanov/agre_project)  |[LiveDemo](https://agreproject1.herokuapp.com/)  |
-|03 | [NASA-project](https://github.com/alexgritsanov/Nasa-project) |  |
+
 |04 |[Music Platform](https://github.com/alexgritsanov/music-platform-client-dev) |[LiveDemo](https://musicplatform-client.herokuapp.com/tracks) |
 |05 |[Pong](https://alexgritsanov.github.io/pong/) |[LiveDemo](https://alexgritsanov.github.io/pong/) |
 |06 | [Tourism site]() |[LiveDemo](http://project2487366.tilda.ws/) |
